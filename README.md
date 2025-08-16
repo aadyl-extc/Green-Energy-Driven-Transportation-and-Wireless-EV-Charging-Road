@@ -14,9 +14,9 @@ An Arduino Nano microcontroller manages the coil activation process, ensuring th
   <p>For heavy transport vehicles, an Overhead Locomotive Charging System is implemented. Overhead power lines are installed along designated lanes on highways, supplying direct grid power to electric trucks and buses. These vehicles are equipped with a pantograph system, which is manually deployed by the driver when entering the electrified lane.
 The pantograph features a suspension-based adjustment mechanism, allowing it to adapt to variations in wire height while maintaining consistent contact with the overhead power lines. Arduino Nano microcontrollers are used to detect when the pantograph is connected to the overhead wire, ensuring smooth power transfer. When connected, the vehicle draws power directly from the grid while simultaneously charging its onboard battery.
 If the pantograph disconnects due to lane changes or road conditions, the system automatically switches to battery mode, allowing the vehicle to continue operation seamlessly. The LCD display inside the vehicle indicates the current power source, displaying “Source: Overhead” when connected and “Source: Battery” when disconnected.</p>
-
-<img width = "300" src="IMG4.jpg">
-
+<div>
+<img width = "300" src="IMG4.jpg"> <img width = "300" src="IMG5.png"> <img width = "300" src="IMG6.png">
+</div>
 
 
 
