@@ -15,8 +15,13 @@ An Arduino Nano microcontroller manages the coil activation process, ensuring th
 The pantograph features a suspension-based adjustment mechanism, allowing it to adapt to variations in wire height while maintaining consistent contact with the overhead power lines. Arduino Nano microcontrollers are used to detect when the pantograph is connected to the overhead wire, ensuring smooth power transfer. When connected, the vehicle draws power directly from the grid while simultaneously charging its onboard battery.
 If the pantograph disconnects due to lane changes or road conditions, the system automatically switches to battery mode, allowing the vehicle to continue operation seamlessly. The LCD display inside the vehicle indicates the current power source, displaying “Source: Overhead” when connected and “Source: Battery” when disconnected.</p>
 <div>
-<img width = "300" src="IMG4.jpg"> <img width = "300" src="IMG5.png"> <img width = "300" src="IMG6.png">
+<img width = "300" src="IMG4.jpg" height = "300"> <img width = "250" src="IMG6.png"> <img width = "500" src="IMG5.png">
 </div>
 
 
+<h2>Conclusion</h2>
+<p>The establishment of a renewable energy-based EV charging infrastructure marks a significant step towards a sustainable and eco-friendly future. By integrating wireless charging roads and overhead locomotive systems powered by solar and wind energy, this initiative not only reduces carbon emissions but also enhances the feasibility of electric vehicle adoption. The project aligns with global climate goals, offering a smarter, more efficient, and greener transportation network.
+This holistic approach benefits not only the environment but also individuals and industries seeking cost-effective and energy-efficient mobility solutions. As a next-generation EV charging system, “Next-Gen EV Charging Roads: Wireless, Solar, and Smart Solutions” stands as a beacon of progress, paving the way for a cleaner, smarter, and more sustainable world.</p>
+
+<img width = "300" src="IMG4.jpg" height = "300"> 
 
